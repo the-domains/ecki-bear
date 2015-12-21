@@ -1,7 +1,7 @@
 name: Ecki Bear
 favicon: null
-layout_spectrum: 0.1743695114273578
-typography_spectrum: 0.3785656876862049
+layout_spectrum: 0.11657
+typography_spectrum: 0.32077
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.3895838363096118
-  lightness: 0.7573333010077477
-  saturation: 0.6940754672978073
-  rhythmicContrast: 0.7929081704933196
+    - '#222222'
+    - '#8e8181'
+    - '#a59595'
+    - '#444040'
+    - '#595252'
+  brandStrength: 0.875
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
