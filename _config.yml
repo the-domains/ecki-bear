@@ -1,7 +1,7 @@
 name: Ecki Bear
 favicon: null
-layout_spectrum: 0.11657
-typography_spectrum: 0.32077
+layout_spectrum: 0
+typography_spectrum: 0.17498
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#a59595'
     - '#444040'
     - '#595252'
-  brandStrength: 0.875
+  brandStrength: 0.375
   lightness: 0.4375
   saturation: 0.6875
   rhythmicContrast: 0.75
