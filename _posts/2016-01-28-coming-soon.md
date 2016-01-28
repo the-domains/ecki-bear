@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: soundcloud.com/eckibear
-datePublished: '2016-01-28T11:53:37.264Z'
-dateModified: '2016-01-28T11:53:34.240Z'
-title: ''
+description: ''
+datePublished: '2016-01-28T12:35:10.165Z'
+dateModified: '2016-01-28T12:35:08.907Z'
+title: soundcloud.com/eckibear
 author: []
 sourcePath: _posts/2016-01-28-coming-soon.md
 published: true
