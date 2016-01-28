@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-28T11:51:41.453Z'
-dateModified: '2016-01-28T11:51:39.117Z'
+description: soundcloud.com/eckibear
+datePublished: '2016-01-28T11:53:37.264Z'
+dateModified: '2016-01-28T11:53:34.240Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-28-coming-soon.md
