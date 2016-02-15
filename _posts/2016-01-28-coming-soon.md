@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T15:37:16.409Z'
-dateModified: '2016-02-15T15:34:10.998Z'
+datePublished: '2016-02-15T15:53:14.593Z'
+dateModified: '2016-02-15T15:52:58.325Z'
 title: coming soon
 author: []
 sourcePath: _posts/2016-01-28-coming-soon.md
@@ -21,6 +21,5 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec99f55f-be60-48df-a3d5-6e1d5dd310df.png)
-
 soundcloud.com/eckibear
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8729d8b-4e77-4306-aa68-1f4a0e555d5f.png)
