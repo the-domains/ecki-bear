@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T13:09:28.546Z'
-dateModified: '2016-01-28T13:08:04.243Z'
+datePublished: '2016-02-15T15:37:16.409Z'
+dateModified: '2016-02-15T15:34:10.998Z'
 title: coming soon
 author: []
 sourcePath: _posts/2016-01-28-coming-soon.md
@@ -22,5 +21,6 @@ publisher:
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec99f55f-be60-48df-a3d5-6e1d5dd310df.png)
+
 soundcloud.com/eckibear
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/325d2f31-d238-4640-b5c2-cd9892807565.png)
