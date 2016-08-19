@@ -19,8 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b6f1d33-de01-41fa-a103-fe34e8714321.png
+logo: null
 name: ECKI BEAR
 cta:
   domain: null
