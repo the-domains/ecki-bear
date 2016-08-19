@@ -1,7 +1,30 @@
-name: Ecki Bear
-favicon: null
-layout_spectrum: 0.90987
 typography_spectrum: 0.59203
+color:
+  brandColors:
+    - '#ffffff'
+    - '#cc9700'
+    - '#bfbf00'
+    - '#ffff00'
+    - '#f5e168'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.90987
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ecki Bear
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,28 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Ecki Bear
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#cc9700'
-    - '#bfbf00'
-    - '#ffff00'
-    - '#f5e168'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+title: ECKI BEAR
 purpose: []
