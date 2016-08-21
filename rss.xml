@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ECKI BEAR]]></title>
+        <description><![CDATA[ECKI BEAR]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 00:47:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Does music really help you concentrate?]]></title>
+            <description><![CDATA[<article><h1>Does music really help you concentrate?</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48e5926fcfface6c637a4c6a3f35b69a/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F1fea7fe5bfa8624b1b5fc81860514b13b32636c7%2F11_14_1938_1163%2F1938.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D0e0946614c855af851b6b68ddc55a259"></article>]]></description>
+            <link>https://apple.news/AvC80Tx5NSOqQ5OSzE5GjWA</link>
+            <guid isPermaLink="false">85cebe59-7f32-423a-a87b-2bc355651143</guid>
+            <pubDate>Sun, 21 Aug 2016 00:47:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
