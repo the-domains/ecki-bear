@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ECKI BEAR]]></title>
         <description><![CDATA[ECKI BEAR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://eckibear.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 00:47:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Aug 2016 08:39:09 GMT</lastBuildDate>
+        <atom:link href="http://eckibear.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tech Heavy Flume]]></title>
+            <description><![CDATA[<article><h1>Tech Heavy Flume</h1><p>It’s an audacious, tech-heavy set that throbs, flashes and dances in unison with his every move.</p></article>]]></description>
+            <link>https://apple.news/A1gb4ZOR_Soum85hfMD-Sew</link>
+            <guid isPermaLink="false">637fd0a8-8d79-4e54-9172-699ae9a807fb</guid>
+            <pubDate>Mon, 22 Aug 2016 08:39:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does music really help you concentrate?]]></title>
             <description><![CDATA[<article><h1>Does music really help you concentrate?</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48e5926fcfface6c637a4c6a3f35b69a/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F1fea7fe5bfa8624b1b5fc81860514b13b32636c7%2F11_14_1938_1163%2F1938.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D0e0946614c855af851b6b68ddc55a259"></article>]]></description>
