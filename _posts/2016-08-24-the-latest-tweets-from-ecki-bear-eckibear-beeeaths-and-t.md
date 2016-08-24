@@ -1,7 +1,9 @@
 ---
-datePublished: '2016-08-24T16:18:38.765Z'
-sourcePath: _posts/2016-08-24-the-latest-tweets-from-ecki-bear-eckibear-beeeaths-and-t.md
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://twitter.com/eckibear'
+inLanguage: en
 keywords:
   - snd
   - http
@@ -13,10 +15,13 @@ keywords:
   - 1759eah
   - racmix
   - anjos
+description: 'The latest Tweets from Ecki Bear (@eckibear). Beeeaths and that. '
+datePublished: '2016-08-24T21:27:54.137Z'
+dateModified: '2016-08-24T21:27:48.004Z'
+sourcePath: _posts/2016-08-24-the-latest-tweets-from-ecki-bear-eckibear-beeeaths-and-t.md
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T16:18:38.067Z'
 title: ''
 app_links:
   - path: >-
@@ -24,17 +29,21 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-publisher: {}
-description: The latest Tweets from Ecki Bear (@eckibear). Beeeaths and that. London
-inLanguage: en
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: Comment
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6433251b-6ab7-4afd-875c-46781ed6908b.png)
 
-> The latest Tweets from Ecki Bear (@eckibear). Beeeaths and that. London
+> The latest [Tweets][0] from Ecki [Bear][0] (@eckibear). Beeeaths and that. 
+
+
+
+[0]: null
